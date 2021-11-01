@@ -1,0 +1,169 @@
+* {
+    /* background: #F8F7F2 0% 0% no-repeat padding-box; */
+  opacity: 1;
+  }
+  #lego-img {
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+  
+  }  
+  
+  .my-profile-container {               
+    width: 100%;
+    height: 100%;
+    padding-left: 30px;}
+  
+  .div-title-line {
+      margin-top: 0px;
+      width: 100%;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: row;
+    }
+  
+   
+   
+  
+    .change-avatar-button {
+      width: 150px;
+    height: 25px;
+    border: 1px solid #a5a5a5;
+    opacity: 2;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+    font: normal normal normal 14px/19px Roboto;
+    letter-spacing: 0px;
+    color: #a5a5a5; 
+    text-transform: uppercase;
+    padding: 4px 2px;
+    outline: none;
+  
+  }
+  
+  
+  .lego-logo {
+    width: 30%;
+    
+  }
+  
+  
+  .my-profile-img-button{
+    
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    text-align: center;
+    border-radius: 5px;
+    
+  }
+  
+  .my-profile-title {
+    height: 48px;
+    padding-right: 20px;
+    text-align: left;
+    font: normal normal bold 36px/48px Roboto Slab;
+    letter-spacing: 0px;
+    color: #96BB36;
+    opacity: 1;
+  }
+  
+  #MyProfile-line {
+    margin-top: 34px;
+    flex-grow: 1;
+    border: none;
+    border-top: 1px solid silver;
+  }
+
+
+
+.form-input-columns {
+    display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  width: 100%;
+  float: left;
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
+
+.my-profile-inputs{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+    width: 100%;
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 50px;
+  }
+
+  .left-column {
+    float: left;
+    width: 50%;
+  }
+
+  .text-style{
+    display: flex;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 16px/21px var(--unnamed-font-family-roboto-slab);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--orange);
+    font: normal normal bold 16px/21px Roboto Slab;
+    letter-spacing: 0px;
+    color: #F0972A;
+    opacity: 1;
+  }
+
+  .right-column{
+    float: left;
+    width: 50%;
+    margin-right: 80px;
+  }
+
+.form-input-container {
+    display: flex;
+    flex-direction: row;
+}
+.input-filed {
+    width: 300px;
+}
+
+.bgd-style {
+    background: #F0EFEA 0% 0% no-repeat padding-box;
+    width: 294px;
+    height: 40px;
+  }
+
+  .myprofile-save-button {
+    display: block;
+    background: #96BB36 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    border: none;
+    opacity: 1;
+    width: 120px;
+    height: 40px;
+    font: normal normal bold 15px/5px Roboto Slab;
+    color: #ffff;
+    text-transform: uppercase;
+    margin-top: 25px;
+  }
+  .plus {
+    width: 41px;
+    height: 41px;
+    background: #F0972A 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    border-radius: 50%;
+    float: right;
+    margin-top: -34px;
+}
+.sing {
+  margin:11px 11px;
+}

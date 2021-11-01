@@ -1,3 +1,14 @@
+
+.fixed {
+    width: 100%;
+}
+
+
+.navbar {
+    width: 100%;
+}
+
+
 .orange {
     color:#F0972A;
     font-weight: bold;
@@ -5,7 +16,7 @@
 
 .createAccountButton {
     background: #96BB36 !important;
-    box-shadow: 0px 3px 6px #00000029;
+    box-shadow: 0pax 3px 6px #00000029;
     border: none;
 }
 
@@ -15,4 +26,87 @@
 }
 
 
+.btn-group {
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    
+}
+.profileNav {
+    height: 24px;
+    text-align: left;
+    font: normal normal 500 18px Roboto;
+    color: #96BB36;
+    text-transform: uppercase;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;
+}
 
+.toggle-li{
+    margin-right: 20px;   
+}
+
+.link-one {
+    color: #96BB36;
+    text-decoration-color: grey;
+    font: 600 16px Roboto;
+    font-size: 18px;
+    font-weight: 200px;
+    
+}
+
+.link-two {
+    color: #F0972A;
+    text-decoration-color: grey;
+    font: 600 16px Roboto;
+    font-size: 18px;
+}
+
+.link-three {
+    color: #B5B5B4;
+    text-decoration-color: grey;
+    font: 600 16px Roboto;
+    font-size: 18px;
+}
+
+.login-span {
+    display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: baseline;
+}
+
+.btn-login {
+    width: 108px;
+    height: 44px;
+    opacity: 1;
+    font: normal 500 16px bolder Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #A5A5A5;
+    border-radius: 5px;
+    border: 1px solid #A5A5A5;
+    background: transparent;
+}
+
+.createAccountButton {
+    width: 179px;
+    height: 44px;
+    background: #96BB36 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    border: none;
+    font-size: 16px;
+    font: normal 500 16px bolder Roboto;
+    font-weight: bold;
+    color: #FFFFFF;
+    opacity: 1;
+    border-radius: 5px;
+
+}
+.toggle-li-one {
+    margin-right: 20px;   
+    list-style-type: square;
+}

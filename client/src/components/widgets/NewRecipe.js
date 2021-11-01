@@ -1,7 +1,7 @@
 import React from 'react';
 import { Form, FormGroup, FormControl, FormLabel, Image } from 'react-bootstrap'
 import '../../styles/new-recipe.css';
-import image from '../../images/homemadepizza.png';
+// import image from '../../images/homemadepizza.png';
 import back from '../../images/back-icon.svg';
 
 const NewRecipe = () => {

@@ -1,9 +1,47 @@
 .span-container{
+    font-size: 10px;
     color: rgba(255,255,255,.75);
-
+    background-color: #626262; 
+    align-items: baseline;
+   
 }
 
 .circle-white {
+    background-color: #626262;
     color: white;
     font-size: 20pt;
+    height: 50px;
 }
+
+
+    .footer-container {
+        color:#626262 ;
+        background-color:#626262;
+        position: relative;
+        min-height: 10vh;
+        width: 100%;
+       
+     
+    }
+    .justify-content-center {
+        background-color: #626262;
+    }
+
+    .logo-image {
+        background-color: #626262;
+    }
+
+
+  .h6 {
+      color: white;
+      background-color: #626262;
+      font-size: small;
+  }
+
+  .stupid-navbar {
+      /* position: unset;
+    bottom: 0;
+    width: 100%;
+    height: 114px; */
+  
+  }
